@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p align ="center"><img src="p5t0a8cnnhamq3hp5dir.png" width = 40%></p>
+<p align ="center"><img src="p5t0a8cnnhamq3hp5dir.png" width = 80%></p>
 <!--
 
 **Here are some ideas to get you started:**
